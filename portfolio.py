@@ -37,7 +37,7 @@ st.write("**Data Science/Machine Learning Specialist**")
 st.image(image, caption="Vaibhav Sharma", width=150)
 
 # Specify the path to your resume file
-resume_path = r"E:\PROJECTS\portfolio\streamlit_portfolio\Vaibhav Sharma Resume.pdf"
+resume_path = "Vaibhav Sharma Resume.pdf"
 
 # Create a download button using Streamlit's built-in function
 with open(resume_path, "rb") as file:
