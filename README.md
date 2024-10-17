@@ -1,0 +1,3 @@
+# Portfolio
+
+My portfolio is an interactive showcase crafted with Streamlit, presenting my professional journey. It includes sections for personal information, academic qualifications, a concise summary, key projects, technical skills, and a downloadable PDF resume. The project details are dynamically sourced from GitHub, ensuring they’re always current. This portfolio effectively highlights my expertise in data analysis, machine learning, and software development.
